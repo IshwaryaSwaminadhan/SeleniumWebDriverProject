@@ -22,7 +22,7 @@ public class BootstrapDropDown {
 		
 		driver.findElement(By.xpath("//button/span")).click(); //opens dropdown options
 		
-		// Select Single Option
+		/// Select Single Option
 	//	driver.findElement(By.xpath("//ul//label/input[@title='Alabama']")).click();
 	
 		// 

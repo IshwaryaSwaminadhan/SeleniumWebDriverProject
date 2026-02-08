@@ -31,7 +31,7 @@ public class StaticTable {
 		// int cols =driver.findElements(By.tagName("th")).size(); //single table
 		System.out.println("Number of Columns:"+cols);
 		
-		//3) Read data specific row and column ()
+		//3) Read data specific row and column () /
 	}
 
 }
